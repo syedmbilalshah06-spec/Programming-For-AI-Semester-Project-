@@ -1,0 +1,269 @@
+Country/Region,Confirmed,Deaths,Mortality_Rate,Risk_Level
+US,103802702,1123836,1.08,High
+India,44690738,530779,1.19,High
+France,38618509,161512,0.42,High
+Germany,38249060,168935,0.44,High
+Brazil,37076053,699276,1.89,High
+Japan,33320438,72997,0.22,High
+"Korea, South",30615522,34093,0.11,High
+Italy,25603510,188322,0.74,High
+United Kingdom,24425309,219948,0.9,High
+Russia,22075858,388478,1.76,High
+Turkey,17042722,101492,0.6,High
+Spain,13770429,119479,0.87,High
+Vietnam,11526994,43186,0.37,High
+Argentina,10044957,130472,1.3,High
+Taiwan*,9970937,17672,0.18,High
+Netherlands,8599981,22990,0.27,High
+Iran,7572311,144933,1.91,High
+Mexico,7483444,333188,4.45,Critical
+Indonesia,6738225,160941,2.39,High
+Poland,6444960,119010,1.85,High
+Colombia,6359093,142339,2.24,High
+Austria,5961143,21970,0.37,High
+Ukraine,5711929,119283,2.09,High
+Portugal,5570473,26266,0.47,High
+Greece,5548487,34779,0.63,High
+Chile,5192286,64273,1.24,High
+Malaysia,5044718,36967,0.73,High
+Israel,4803824,12329,0.26,High
+Belgium,4739365,33814,0.71,High
+Thailand,4728182,33918,0.72,High
+Czechia,4618256,42491,0.92,High
+Peru,4487553,219539,4.89,Critical
+Switzerland,4413911,14210,0.32,High
+Philippines,4077452,66188,1.62,High
+South Africa,4067067,102595,2.52,Critical
+Australia,3915992,6529,0.17,High
+Denmark,3404407,8296,0.24,High
+Romania,3346046,67736,2.02,High
+Australia,2880559,7370,0.26,High
+China,2876106,13467,0.47,High
+Sweden,2699339,23777,0.88,High
+Slovakia,2667551,21035,0.79,High
+Serbia,2500142,17881,0.72,High
+Iraq,2465545,25375,1.03,High
+Singapore,2235294,1722,0.08,High
+New Zealand,2228291,2548,0.11,High
+Hungary,2196804,48762,2.22,High
+Bangladesh,2037871,29445,1.44,High
+Georgia,1827537,16971,0.93,High
+Australia,1800236,2783,0.15,High
+Jordan,1746997,14122,0.81,High
+Ireland,1704502,8708,0.51,High
+Pakistan,1577411,30644,1.94,High
+China,1521816,82195,5.4,Critical
+Kazakhstan,1498668,19071,1.27,High
+Norway,1479506,5213,0.35,High
+Finland,1463644,8967,0.61,High
+Slovenia,1331707,7078,0.53,High
+Lithuania,1307448,9596,0.73,High
+Bulgaria,1297523,38228,2.95,Critical
+Australia,1293461,952,0.07,High
+Morocco,1272490,16296,1.28,High
+Croatia,1269326,17987,1.42,High
+Guatemala,1238247,20182,1.63,High
+Lebanon,1232828,10841,0.88,High
+Costa Rica,1209725,9245,0.76,High
+Bolivia,1194277,22365,1.87,High
+Tunisia,1151126,29341,2.55,Critical
+Cuba,1112643,8530,0.77,High
+Ecuador,1057121,36014,3.41,Critical
+United Arab Emirates,1053213,2349,0.22,High
+Uruguay,1034303,7617,0.74,High
+Panama,1031731,8609,0.83,High
+Mongolia,1007900,2136,0.21,High
+Nepal,1001154,12020,1.2,High
+Belarus,994037,7118,0.72,High
+Latvia,976255,6269,0.64,High
+Australia,883620,1365,0.15,High
+Saudi Arabia,830127,9618,1.16,High
+Azerbaijan,828825,10138,1.22,High
+Paraguay,808401,19878,2.46,High
+Bahrain,710693,1553,0.22,High
+West Bank and Gaza,703228,5708,0.81,High
+Sri Lanka,672039,16830,2.5,High
+Kuwait,663860,2570,0.39,High
+Dominican Republic,660790,4384,0.66,High
+Cyprus,650685,1330,0.2,High
+Burma,633950,19490,3.07,High
+Estonia,615433,2946,0.48,High
+Moldova,611140,12003,1.96,High
+Venezuela,552162,5854,1.06,High
+Egypt,515759,24812,4.81,High
+Libya,507187,6437,1.27,High
+Ethiopia,500116,7572,1.51,High
+Qatar,495090,688,0.14,Moderate
+France,494595,921,0.19,Moderate
+Honduras,472250,11111,2.35,High
+Armenia,447308,8727,1.95,Moderate
+Bosnia and Herzegovina,401729,16280,4.05,High
+Oman,399449,4628,1.16,Moderate
+North Macedonia,346852,9662,2.79,High
+Zambia,343135,4057,1.18,Moderate
+Kenya,342937,5688,1.66,Moderate
+Albania,334457,3598,1.08,Moderate
+Botswana,329758,2801,0.85,Moderate
+Luxembourg,317367,1220,0.38,Moderate
+Mauritius,296042,1044,0.35,Moderate
+Montenegro,288808,2808,0.97,Moderate
+Australia,287507,256,0.09,Moderate
+Brunei,279661,225,0.08,Moderate
+Kosovo,273312,3211,1.17,Moderate
+Algeria,271496,6881,2.53,High
+Nigeria,266598,3155,1.18,Moderate
+Zimbabwe,264276,5671,2.15,High
+Uzbekistan,251247,1637,0.65,Moderate
+Australia,232974,228,0.1,Moderate
+France,229020,1092,0.48,Moderate
+Laos,218023,758,0.35,Moderate
+Afghanistan,209451,7896,3.77,High
+Iceland,209137,263,0.13,Moderate
+Kyrgyzstan,206708,2991,1.45,Moderate
+France,201886,1010,0.5,Moderate
+El Salvador,201785,4230,2.1,High
+Trinidad and Tobago,189918,4355,2.29,High
+Maldives,185738,311,0.17,Moderate
+Ghana,171229,1462,0.85,Moderate
+Namibia,171156,4090,2.39,High
+Uganda,170544,3630,2.13,High
+Jamaica,154416,3514,2.28,High
+Cambodia,138719,3056,2.2,High
+Rwanda,133194,1468,1.1,Moderate
+Cameroon,124392,1965,1.58,Moderate
+Malta,117610,828,0.7,Moderate
+Barbados,106798,579,0.54,Moderate
+Angola,105288,1933,1.84,Moderate
+Australia,105111,91,0.09,Moderate
+China,103248,10,0.01,Moderate
+France,98041,413,0.42,Low
+Congo (Kinshasa),95749,1464,1.53,Moderate
+Senegal,88926,1971,2.22,High
+Malawi,88707,2686,3.03,High
+Cote d'Ivoire,88263,834,0.94,Low
+Suriname,82467,1404,1.7,Moderate
+France,80017,314,0.39,Low
+France,78055,649,0.83,Low
+Eswatini,74267,1425,1.92,Moderate
+Guyana,73075,1298,1.78,Moderate
+China,72131,4515,6.26,High
+Belize,70757,688,0.97,Low
+Fiji,68898,883,1.28,Moderate
+Madagascar,67889,1423,2.1,High
+China,67040,595,0.89,Low
+United Kingdom,66391,161,0.24,Low
+Sudan,63829,5017,7.86,High
+Mauritania,63668,997,1.57,Moderate
+Cabo Verde,63244,413,0.65,Low
+Bhutan,62627,21,0.03,Low
+Burundi,53631,38,0.07,Low
+Seychelles,50665,172,0.34,Low
+Gabon,48981,306,0.62,Low
+Andorra,47890,165,0.34,Low
+Papua New Guinea,46825,670,1.43,Moderate
+Netherlands,45986,301,0.65,Low
+Netherlands,44044,282,0.64,Low
+Tanzania,42906,846,1.97,Moderate
+France,42004,187,0.45,Low
+China,40774,20,0.05,Low
+China,40764,5,0.01,Low
+Togo,39396,290,0.74,Low
+Guinea,38267,467,1.22,Moderate
+United Kingdom,38008,116,0.31,Low
+Bahamas,37491,833,2.22,High
+United Kingdom,34991,66,0.19,Low
+Lesotho,34790,723,2.08,High
+Denmark,34658,28,0.08,Low
+Haiti,34202,860,2.51,High
+Mali,33062,743,2.25,High
+United Kingdom,31472,37,0.12,Low
+Saint Lucia,30004,409,1.36,Moderate
+Benin,27999,163,0.58,Low
+Somalia,27324,1361,4.98,High
+Congo (Brazzaville),25087,388,1.55,Moderate
+Solomon Islands,24575,153,0.62,Low
+Micronesia,23948,61,0.25,Low
+San Marino,23616,122,0.52,Low
+Burkina Faso,22056,396,1.8,Moderate
+Liechtenstein,21432,89,0.42,Low
+United Kingdom,20433,111,0.54,Low
+Grenada,19680,238,1.21,Moderate
+United Kingdom,18828,160,0.85,Low
+South Sudan,18368,138,0.75,Low
+Tajikistan,17786,125,0.7,Low
+Equatorial Guinea,17229,183,1.06,Moderate
+China,17122,2,0.01,Low
+Tonga,16810,13,0.08,Low
+Samoa,16607,29,0.17,Low
+Monaco,16121,67,0.42,Low
+Dominica,15760,74,0.47,Low
+Djibouti,15690,189,1.2,Moderate
+Nicaragua,15655,245,1.56,Moderate
+Marshall Islands,15649,17,0.11,Low
+Central African Republic,15368,113,0.74,Low
+China,14715,11,0.07,Low
+China,14567,12,0.08,Low
+China,13371,2,0.01,Low
+Gambia,12598,372,2.95,High
+France,12271,63,0.51,Low
+Vanuatu,12014,14,0.12,Low
+Denmark,11971,21,0.18,Low
+Yemen,11945,2159,18.07,High
+China,11848,1,0.01,Low
+Netherlands,11804,41,0.35,Low
+Netherlands,11020,91,0.83,Low
+China,10483,6,0.06,Low
+Eritrea,10189,103,1.01,Moderate
+China,9743,4,0.04,Low
+Saint Vincent and the Grenadines,9589,123,1.28,Moderate
+Niger,9508,315,3.31,High
+Antigua and Barbuda,9106,146,1.6,Moderate
+Comoros,9008,161,1.79,Moderate
+Guinea-Bissau,8960,176,1.96,Moderate
+China,8847,1,0.01,Low
+Liberia,8090,295,3.65,High
+Sierra Leone,7760,126,1.62,Moderate
+Chad,7679,194,2.53,High
+China,7437,4,0.05,Low
+China,7326,5,0.07,Low
+United Kingdom,7305,64,0.88,Low
+China,7167,1,0.01,Low
+New Zealand,7031,2,0.03,Low
+China,6603,18,0.27,Low
+Saint Kitts and Nevis,6597,47,0.71,Low
+United Kingdom,6561,38,0.58,Low
+Sao Tome and Principe,6281,77,1.23,Moderate
+Palau,5991,9,0.15,Low
+China,5880,10,0.17,Low
+France,5441,6,0.11,Low
+Nauru,5247,1,0.02,Low
+China,5075,0,0.0,Low
+Kiribati,5014,18,0.36,Low
+China,4392,3,0.07,Low
+United Kingdom,3904,12,0.31,Low
+China,3547,2,0.06,Low
+China,3514,121,3.44,High
+France,3452,2,0.06,Low
+France,3427,7,0.2,Low
+China,3423,2,0.06,Low
+China,3089,3,0.1,Low
+Tuvalu,2805,0,0.0,Low
+China,2534,2,0.08,Low
+China,2275,7,0.31,Low
+United Kingdom,2166,0,0.0,Low
+United Kingdom,1930,0,0.0,Low
+China,1742,2,0.11,Low
+China,1647,0,0.0,Low
+United Kingdom,1403,8,0.57,Low
+China,1276,0,0.0,Low
+Summer Olympics 2020,865,0,0.0,Low
+New Zealand,792,0,0.0,Low
+China,782,0,0.0,Low
+Diamond Princess,712,13,1.83,Moderate
+Winter Olympics 2022,535,0,0.0,Low
+Holy See,29,0,0.0,Low
+Antarctica,11,0,0.0,Low
+MS Zaandam,9,2,22.22,High
+United Kingdom,4,0,0.0,Low
+"Korea, North",1,6,600.0,High
+United Kingdom,0,0,,Low
