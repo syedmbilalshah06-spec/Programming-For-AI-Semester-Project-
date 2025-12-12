@@ -182,3 +182,45 @@ Educational institutions promoting data literacy
 Project Link: https://github.com/syedmbilalshah06-spec/Programming-For-AI-Semester-Project-
 
 
+Individual Commits
+Each team member contributed 5+ meaningful commits:
+
+Student 1: Data pipeline and infrastructure
+Student 2: Analysis and visualization code
+Student 3: Risk system and documentation
+
+
+📝 Documentation
+
+📄 Complete Project Report
+📓 Jupyter Notebook
+🎥 Video Demo
+📊 Presentation Slides
+
+
+🎓 Course Information
+Course: AIL 202 - Programming for AI
+Project: Complex Computing Problem (CLO-3)
+Class: BSAI-3A
+Instructor: Ms. Samia Kiran
+Institution: Bahria Uni
+Semester: Fall 2024
+Learning Objectives Achieved
+✅ Data manipulation with Pandas
+✅ Algorithm design and implementation
+✅ Data visualization techniques
+✅ Object-oriented programming
+✅ Problem-solving with real-world data
+
+🏆 Acknowledgments
+
+Johns Hopkins University for providing the COVID-19 dataset
+World Health Organization for epidemiological guidelines
+Kaggle Community for data science resources
+Ms. Samia Kiran for project guidance
+Python Community for excellent open-source libraries
+📊 Data
+Dataset Source
+
+Primary: Johns Hopkins CSSE COVID-19 Dataset
+Alternative: Kaggle COVID-19 Dataset
